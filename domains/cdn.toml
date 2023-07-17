@@ -1,0 +1,9 @@
+[user]
+username = ""
+# You have to have one of these.
+email = ""
+discord = "kaiserrrrrr"
+
+[records]
+# Your site's records, i.e.
+CNAME = "7ee66ebf-0c3d-42a6-b1d7-29c0c0bfbd0c.id.repl.co"
